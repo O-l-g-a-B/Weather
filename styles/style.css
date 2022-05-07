@@ -1,0 +1,33 @@
+.app-wrap {
+    background-color: blueviolet;
+    height: 1000px;
+    color:beige;
+}
+.city {
+    display: block;
+    max-width: 150px;
+    margin: 0 auto;
+    padding-top: 50px;
+    font-size: 55px;
+}
+.tempValue {
+    display: block;
+    max-width: 100px;
+    margin: 0 auto;
+    padding-top: 50px;
+    font-size: 55px;
+}
+.weather {
+    display: block;
+    max-width: 280px;
+    margin: 0 auto;
+    padding-top: 50px;
+    font-size: 55px;
+}
+.hi-low {
+    display: block;
+    max-width: 200px;
+    margin: 0 auto;
+    padding-top: 50px;
+    font-size: 55px;
+}
